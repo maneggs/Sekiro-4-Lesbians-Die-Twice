@@ -25,5 +25,4 @@
 &#9679; Supercell<br />
 &#9679; Netflix<br />
 &#9679; NVIDIA<br />
-&#9679; WarnerBros.<br />
 &#9679; Microsoft<br />
