@@ -22,6 +22,7 @@
 &#9679; Sergey PornoMaster<br />
 &#9679; VLAD SexMachine Inc.<br />
 &#9679; Fedor Dolboyebik Entertainment<br />
+&#9679; Perdezh Inc.<br />
 &#9679; Supercell<br />
 &#9679; Netflix<br />
 &#9679; NVIDIA<br />
