@@ -1,6 +1,6 @@
 <h1 align="center">Sekiro 4: Lesbians Die Twice</h1>
 
-<p align="center">Better Than Original</p>
+<p align="center">Better Than the Original</p>
 
 <p align="center">Четвертая часть самой невротъебательской игры в мире. Тебе предстоит сразиться со Сталиным и получить награду от австрийского хомяка (цепочка "AUTISM"). Данная гра очень важна в сюжете и является одной из самых главных частей.</p>
 
