@@ -13,13 +13,13 @@
 <h3 align="center">Секс с Дедом</h3>
 
 <h1 align="center">&#128153; Персонажи &#128153;</h1>
-<p align="center">Матвей - Главный Герой</p>
-<p align="center">Матвей Примат</p>
-<p align="center">Владимир Зеленский</p>
-<p align="center">Пахом</p>
-<p align="center">Клон Матвей</p>
-<p align="center">Мита</p>
-<p align="center">Демогоргон</p>
+<h3 align="center">Матвей - Главный Герой</h3>
+<h3 align="center">Матвей Примат</h3>
+<h3 align="center">Владимир Зеленский</h3>
+<h3 align="center">Пахом</h3>
+<h3 align="center">Клон Матвей</h3>
+<h3 align="center">Мита</h3>
+<h3 align="center">Демогоргон</h3>
 <br />
 <h2 align="center">&#128420; Боссы &#128420;</h2>
 <p align="center">Нарисованный Матвей - Малый</p>
