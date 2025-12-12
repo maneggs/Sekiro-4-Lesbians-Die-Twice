@@ -25,7 +25,9 @@
 <p align="center">Нарисованный Матвей - Малый</p>
 <p align="center">Ёпстудей - Малый</p>
 <p align="center">Мега-Самурай - Средний</p>
-<p align="center">Векна - Сильный</p>
+<p align="center">Векна - Средний</p>
+<p align="center">Лисичкин - Сильный</p>
+<p align="center">Наталья Владиславовна - Сильный</p>
 <p align="center">Ленин - Сильный</p>
 <p align="center">Сталин - ГЛАВНЫЙ БОСС</p>
 
