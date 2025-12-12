@@ -36,6 +36,7 @@
 # &#128154; Разработчики &#128154; #
 <h3 align="center">Сергей - Главный Разработчик, глава Sergey PornoMaster и Perdoon Inc.</h3>
 <h3 align="center">Матвей - Самурай</h3>
+<h3 align="center">Krusha IT-TOP Entertainment - Генеральный Директор</h3>
 <h3 align="center">Владосик - Гейм-Дизайнер, Разработчик, глава VLAD SexMachine Inc.</h3>
 <h3 align="center">Федун - Гейм-Дизайнер, глава Fedor Dolboebick Entertainment</h3>
 
