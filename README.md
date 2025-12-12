@@ -39,6 +39,7 @@
 &#9679; VLAD SexMachine Inc.<br />
 &#9679; Fedor Dolboebick Entertainment<br />
 &#9679; Microsoft<br />
+&#9679; McDonald's<br />
 &#9679; Supercell<br />
 &#9679; Netflix<br />
 &#9679; NVIDIA<br />
@@ -48,6 +49,3 @@
 &#9679; Видеокарта: Перпеллер Карлсона<br />
 &#9679; Оперативная память: 1488 байт<br />
 &#9679; Установленный MiSide и Sekiro Sex Mod<br />
-
-# &#128153; Особая благодарность #
-&#9679; Кирилл (KriSasaki)<br />
