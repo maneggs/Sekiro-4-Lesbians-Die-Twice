@@ -19,7 +19,6 @@
 <h3 align="center">Матвей Примат</h3>
 <h3 align="center">Владимир Зеленский</h3>
 <h3 align="center">Пахом</h3>
-<h3 align="center">Клон Матвей</h3>
 <h3 align="center">Мита</h3>
 <h3 align="center">Демогоргон</h3>
 <br />
@@ -30,7 +29,6 @@
 <p align="center">Векна - Средний</p>
 <p align="center">Лисичкин - Сильный</p>
 <p align="center">Наталья Владиславовна - Сильный</p>
-<p align="center">Татьяна Борисовна - Сильный</p>
 <p align="center">Сталин - ГЛАВНЫЙ БОСС</p>
 <p align="center">Австрийский Хомяк - главный наградитель</p>
 
