@@ -41,6 +41,8 @@
 
 # &#128139; Спонсоры &#128139; #
 &#9679; Мишаня<br />
+&#9679; Activision<br />
+&#9679; From Software<br />
 &#9679; Perdoon Inc.<br />
 &#9679; Sergey PornoMaster<br />
 &#9679; VLAD SexMachine Inc.<br />
