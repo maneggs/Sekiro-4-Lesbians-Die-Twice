@@ -40,7 +40,7 @@
 <h3 align="center">Федун - Гейм-Дизайнер, глава Fedor Dolboebick Entertainment</h3>
 
 # &#128139; Спонсоры &#128139; #
-&#9679; Мишаня<br />
+&#9679; Буянов Мишаня<br />
 &#9679; Activision<br />
 &#9679; From Software<br />
 &#9679; Perdoon Inc.<br />
@@ -51,6 +51,7 @@
 &#9679; McDonald's<br />
 &#9679; Supercell<br />
 &#9679; Netflix<br />
+&#9679; Playstation<br />
 &#9679; NVIDIA<br />
 
 # &#128156; Бета-Тестеры &#128156; #
