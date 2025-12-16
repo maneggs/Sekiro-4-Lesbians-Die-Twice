@@ -28,22 +28,15 @@
 <p align="center">Австрийский Хомяк - главный наградитель</p>
 
 # &#128154; Разработчики &#128154; #
+&#9679; Perdoon Inc.<br />
 <h3 align="center">Сергей - Главный Разработчик, глава Sergey PornoMaster и Perdoon Inc.</h3>
 <h3 align="center">Матвей - Самурай</h3>
-<h3 align="center">Krusha IT-TOP Entertainment - Генеральный Директор</h3>
-<h3 align="center">Владосик - Гейм-Дизайнер, Разработчик, глава VLAD SexMachine Inc.</h3>
-<h3 align="center">Федун - Гейм-Дизайнер, глава Fedor Dolboebick Entertainment</h3>
+<h3 align="center">Владосик - Гейм-Дизайнер</h3>
 
 # &#128139; Спонсоры &#128139; #
 &#9679; Буянов Мишаня<br />
 &#9679; Activision<br />
 &#9679; From Software<br />
-&#9679; Perdoon Inc.<br />
-&#9679; Sergey PornoMaster<br />
-&#9679; VLAD SexMachine Inc.<br />
-&#9679; Fedor Dolboebick Entertainment<br />
-&#9679; Microsoft<br />
-&#9679; McDonald's<br />
 &#9679; Supercell<br />
 &#9679; Netflix<br />
 &#9679; Playstation<br />
